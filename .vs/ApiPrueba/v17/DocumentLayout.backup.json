@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\ediso\\onedrive\\desktop\\prueba\\apiprueba\\apiprueba\\implementaciones\\consumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\implementaciones\\consumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\ediso\\onedrive\\desktop\\prueba\\apiprueba\\apiprueba\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\ediso\\onedrive\\desktop\\prueba\\apiprueba\\apiprueba\\interfases\\iconsumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\interfases\\iconsumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\ediso\\onedrive\\desktop\\prueba\\apiprueba\\apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\ediso\\onedrive\\desktop\\prueba\\apiprueba\\apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ApiPrueba\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:50:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConsumoWS.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "RelativeToolTip": "ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:26:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumoWS.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "RelativeToolTip": "ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:08.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiPrueba",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\ApiPrueba.csproj",
+              "RelativeDocumentMoniker": "ApiPrueba\\ApiPrueba.csproj",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\ApiPrueba.csproj",
+              "RelativeToolTip": "ApiPrueba\\ApiPrueba.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T19:25:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\ediso\\OneDrive\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "RelativeToolTip": "ApiPrueba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:25:00.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

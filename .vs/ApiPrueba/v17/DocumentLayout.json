@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\lenovo\\desktop\\prueba\\apiprueba\\apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\lenovo\\desktop\\prueba\\apiprueba\\apiprueba\\implementaciones\\consumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\implementaciones\\consumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\lenovo\\desktop\\prueba\\apiprueba\\apiprueba\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\lenovo\\desktop\\prueba\\apiprueba\\apiprueba\\interfases\\iconsumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\interfases\\iconsumows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|c:\\users\\lenovo\\desktop\\prueba\\apiprueba\\apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B9C2919-570A-4DA9-BFAC-381B3D13A194}|ApiPrueba\\ApiPrueba.csproj|solutionrelative:apiprueba\\apiprueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "ApiPrueba\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:50:49.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConsumoWS.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "RelativeToolTip": "ApiPrueba\\Interfases\\IConsumoWS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:26:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumoWS.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "RelativeToolTip": "ApiPrueba\\Implementaciones\\ConsumoWS.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:28:08.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiPrueba.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\ApiPrueba.csproj",
+              "RelativeDocumentMoniker": "ApiPrueba\\ApiPrueba.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\ApiPrueba.csproj",
+              "RelativeToolTip": "ApiPrueba\\ApiPrueba.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T19:25:12.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prueba\\ApiPrueba\\ApiPrueba\\Program.cs",
+              "RelativeToolTip": "ApiPrueba\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:25:00.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
