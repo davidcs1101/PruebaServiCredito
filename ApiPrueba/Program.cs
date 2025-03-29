@@ -10,7 +10,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IConsumoWS, ConsumoWS>();
+//var config = builder.Configuration.GetSection("ApiConfiguracion");
+//var urlAcceso = config["urlMicroservicioPrueba"];
+
+//builder.Services.AddScoped<IConsumoWS, ConsumoWS>();
+builder.Services.AddHttpClient<IConsumoWS,ConsumoWS>
+    (
+        cliente => {
+            cliente.BaseAddress = new Uri("https://api.servicredito.aksingeneo.net/api/v1/");
+            cliente.DefaultRequestHeaders.Add("Accept", "Application/json");
+        }
+    );
 
 var app = builder.Build();
 

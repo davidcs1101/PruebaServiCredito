@@ -2,30 +2,24 @@
 using System.Text;
 using ApiPrueba.Interfases;
 using System.Net.Http.Headers;
+using ApiPrueba.Dtos;
 
 namespace ApiPrueba.Implementaciones
 {
     public class ConsumoWS : IConsumoWS
     {
-        private readonly HttpClient _httpClient = new HttpClient();
+        private readonly HttpClient _httpClient;
 
-
-
-
-
-        public async Task<string> GetTokenAsync(string usuario, string clave)
+        public ConsumoWS(HttpClient httpClient)
         {
-            var url = "https://api.servicredito.aksingeneo.net/api/v1/auth/login";
-            var cuerpoSolicitud = new
-            {
-                username = usuario,
-                password = clave
-            };
+            _httpClient = httpClient;
+        }
 
-            string json = JsonSerializer.Serialize(cuerpoSolicitud);
-            var content = new StringContent(json, Encoding.UTF8, "application/json");
+        public async Task<string> GetTokenAsync(LoginRequest loginRequest)
+        {
+            var url = "auth/login";
 
-            HttpResponseMessage response = await _httpClient.PostAsync(url, content);
+            var response = await _httpClient.PostAsJsonAsync(url, loginRequest);
 
             if (!response.IsSuccessStatusCode)
             {
@@ -39,11 +33,11 @@ namespace ApiPrueba.Implementaciones
 
         public async Task<string> GetNotificaciones(string token, string startDate, string endDate)
         {
-            string url = $"https://api.servicredito.aksingeneo.net/api/v1/notifications?start_date={startDate}&end_date={endDate}";
+            string url = $"notifications?start_date={startDate}&end_date={endDate}";
 
             using HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, url);
             request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
-            request.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            //request.Headers.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
             HttpResponseMessage response = await _httpClient.SendAsync(request);
 
@@ -59,7 +53,7 @@ namespace ApiPrueba.Implementaciones
 
         private static void GuardarArchivo(string jsonData)
         {
-            string filePath = @"C:\Users\ediso\Downloads\notificaciones.txt";
+            string filePath = @"G:\notificaciones.txt";
 
             using JsonDocument doc = JsonDocument.Parse(jsonData);
             JsonElement root = doc.RootElement;
